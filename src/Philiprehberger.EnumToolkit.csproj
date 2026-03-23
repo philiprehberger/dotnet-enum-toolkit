@@ -7,7 +7,7 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageId>Philiprehberger.EnumToolkit</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>Enum utilities — parse with fallback, get display names and descriptions, convert to dictionaries, and list all values.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>

@@ -6,10 +6,6 @@
 
 Enum utilities — parse with fallback, get display names and descriptions, convert to dictionaries, and list all values.
 
-## Requirements
-
-- .NET 8.0 or later
-
 ## Installation
 
 ```bash
@@ -102,13 +98,9 @@ var infoList = EnumKit.GetInfo<Status>();
 ## Development
 
 ```bash
-# Build
 dotnet build src/Philiprehberger.EnumToolkit.csproj --configuration Release
-
-# Pack
-dotnet pack src/Philiprehberger.EnumToolkit.csproj --configuration Release -o out
 ```
 
 ## License
 
-[MIT](LICENSE)
+MIT
