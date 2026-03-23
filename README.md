@@ -4,7 +4,7 @@
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.EnumToolkit.svg)](https://www.nuget.org/packages/Philiprehberger.EnumToolkit)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-enum-toolkit)](LICENSE)
 
-Enum utilities — parse with fallback, get display names and descriptions, convert to dictionaries, and list all values.
+Enum utilities — parse with fallback, get display names and descriptions, convert to dictionaries, and list values.
 
 ## Installation
 

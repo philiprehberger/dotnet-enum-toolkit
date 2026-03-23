@@ -7,9 +7,9 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageId>Philiprehberger.EnumToolkit</PackageId>
-    <Version>0.1.2</Version>
+    <Version>0.1.3</Version>
     <Authors>Philip Rehberger</Authors>
-    <Description>Enum utilities — parse with fallback, get display names and descriptions, convert to dictionaries, and list all values.</Description>
+    <Description>Enum utilities — parse with fallback, get display names and descriptions, convert to dictionaries, and list values.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>enum;parsing;display;attributes;utilities</PackageTags>
