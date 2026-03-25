@@ -21,6 +21,8 @@ jobs:
       - name: Build
         run: dotnet build src/Philiprehberger.EnumToolkit.csproj --configuration Release
 
+      - run: dotnet test tests/Philiprehberger.EnumToolkit.Tests/Philiprehberger.EnumToolkit.Tests.csproj --configuration Release --no-restore
+
   publish:
     needs: build
     runs-on: ubuntu-latest
