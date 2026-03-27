@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/dotnet-enum-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-enum-toolkit/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.EnumToolkit.svg)](https://www.nuget.org/packages/Philiprehberger.EnumToolkit)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-enum-toolkit)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Enum utilities — parse with fallback, get display names and descriptions, convert to dictionaries, and list values.
 
@@ -103,4 +104,4 @@ dotnet build src/Philiprehberger.EnumToolkit.csproj --configuration Release
 
 ## License
 
-MIT
+[MIT](LICENSE)
